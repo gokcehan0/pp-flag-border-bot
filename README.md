@@ -1,1 +1,1 @@
-# pp-flag-border-test-bot
+# flag-pp-test-bot
