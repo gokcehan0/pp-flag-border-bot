@@ -1,8 +1,15 @@
+
 # 🇬🇧 pp-flag-border-test-bot
 
-![Sample Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png)
-
 Welcome to **pp-flag-border-test-bot**! 🚩🤖
+
+This project is designed to help you automatically test and visualize flag borders with high accuracy and flexibility. Whether you're working on a flag recognition system, a border overlay tool, or just want to ensure your flag images look perfect, this bot makes it easy! 🏁
+
+With a simple setup, you can run tests, view overlays, and extend the bot for your own flag projects. The code is clean, well-documented, and open source under the MIT License. Contributions are always welcome! 🌍
+
+Below is a high-resolution example overlay image used for testing:
+
+![Flag Overlay Highres](https://raw.githubusercontent.com/gokcehan0/pp-flag-border-test-bot/main/flag-overlay-highres.png)
 
 ---
 
@@ -37,8 +44,9 @@ Welcome to **pp-flag-border-test-bot**! 🚩🤖
 
 ---
 
-## 🖼️ Example Flag
-![Sample Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png)
+
+## 🖼️ Example Flag Overlay
+![Flag Overlay Highres](https://raw.githubusercontent.com/gokcehan0/pp-flag-border-test-bot/main/flag-overlay-highres.png)
 
 ---
 
