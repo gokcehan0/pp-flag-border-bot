@@ -7,9 +7,8 @@ This project is designed to help you automatically test and visualize flag borde
 
 With a simple setup, you can run tests, view overlays, and extend the bot for your own flag projects. The code is clean, well-documented, and open source under the MIT License. Contributions are always welcome! 🌍
 
-Below is a high-resolution example overlay image used for testing
 
-
+[Similar Project](https://github.com/gokcehan0/pp-flag-border-website)
 
 ---
 
@@ -24,7 +23,7 @@ Below is a high-resolution example overlay image used for testing
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/gokcehan0/pp-flag-border-test-bot.git
+   git clone https://github.com/gokcehan0/pp-flag-border-bot.git
    ```
 2. **Install dependencies**
    ```sh
