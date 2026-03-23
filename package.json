@@ -9,10 +9,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "canvas": "^2.11.2",
-    "discord.js": "^14.16.1",
+    "canvas": "^3.2.2",
+    "discord.js": "^14.25.1",
     "dotenv": "^16.4.5",
     "node-fetch": "^2.7.0",
     "sharp": "^0.33.5"
+  },
+  "overrides": {
+    "undici": "^6.24.1"
   }
 }
